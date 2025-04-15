@@ -9,10 +9,11 @@ am [giving up GitHub][give-up-github] for personal use.
 
 <dfn>[Codeberg][codeberg]</dfn> is my home for collaborative open
 source.  Most new projects will be started there, and I am migrating
-established projects as I can.
+established projects as I can.  I'm also a [supporting
+member][join-codeberg].
 
 > [!TIP]
-> [Get started][codeberg-get-started] with Codeberg.
+> [Get started][codeberg-get-started] with Codeberg
 
 ## Forgejo
 
@@ -39,5 +40,6 @@ is not mine to move.
 [explore-forgejo]: https://git.rossabaker.com/explore/repos
 [give-up-github]: https://sfconservancy.org/GiveUpGitHub/
 [iocaine]: https://iocaine.madhouse-project.org/
+[join-codeberg]: https://join.codeberg.org/
 [self-hosted-forgejo]: https://git.rossabaker.com/
 [self-hosted-opengist]: https://paste.rossabaker.com/
