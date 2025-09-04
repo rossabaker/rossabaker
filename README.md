@@ -5,30 +5,29 @@ maintainers need a place that respects their licenses, their time, and
 their wishes.  Microsoft ignores our copyrights and copylefts, floods
 us with AI slop, and the only way to opt out is to leave.
 
+> [!TIP] 
+> If you feel the same, you may find this
+> [script][give-up-github.sh] useful.
+
 ## Scope
 
 This is an individual decision, limited to repos that are "mine."
 
-I hope to move all group projects, but I prefer consensus to edict.  I
-am pushing my collaborators, but not pushing with `--force`.
+I hope to move group projects, but prefer consensus to edict.  I am
+pushing collaborators, but not pushing with `--force`.
 
 This does not apply to work.  Their time, their rules.
 
-To minimize user impact, any *original sources* with at least one star
-remain archived here, with a final commit appended to the default
+To minimize user disruption, any *original sources* with at least one
+star remain archived here, with a final commit appended to the default
 `HEAD`.
-
-> [!TIP]
-> If you feel the same, you may find this [helper
-> script][give-up-github.sh] useful.
 
 ## New homes
 
 ### Codeberg
 
 [**Codeberg**][codeberg]</dfn> is my home for collaborative open
-source.  Codeberg is a community-driven, non-profit platform, and I'm
-proud to be a [supporting member][codeberg-join].
+source.  I'm proud to be a [supporting member][codeberg-join].
 
 > [!TIP]
 > Codeberg is free for public repositories with an open-source
@@ -38,9 +37,8 @@ proud to be a [supporting member][codeberg-join].
 
 I self-host [**Forgejo**][self-hosted-forgejo] for [solo
 projects][forgejo-ross], [issue reproducers][forgejo-repros],
-[forks][forgejo-forks], and [datasets][forgejo-data].  I also mirror
-several open source projects of past and present interest.  You are
-welcome to [explore][forgejo-explore].
+[forks][forgejo-forks], and [datasets][forgejo-data].  You are welcome
+to [explore][forgejo-explore].
 
 > [!WARNING]
 > Crawlers that ignore robots.txt may receive a [colorless, odorless, 
