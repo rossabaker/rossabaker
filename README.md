@@ -3,15 +3,14 @@
 I am [giving up GitHub][give-up-github] for personal use.  Open Source
 maintainers need a place that respects their licenses, their time, and
 their wishes.  Microsoft ignores our copyrights and copylefts, floods
-us with AI slop, and the only way to opt out of either is to leave.
+us with AI slop, and the only way to opt out is to leave.
 
 ## Scope
 
 This is an individual decision, limited to repos that are "mine."
 
-I am advocating the migration of my group projects, but I prefer
-consensus to edict.  I am pushing my collaborators, but not pushing
-with `--force`.
+I hope to move all group projects, but I prefer consensus to edict.  I
+am pushing my collaborators, but not pushing with `--force`.
 
 This does not apply to work.  Their time, their rules.
 
