@@ -2,32 +2,31 @@
 
 I am [giving up GitHub][give-up-github] for personal use.  Open Source
 maintainers need a place that respects their licenses, their time, and
-their wishes.  Microsoft ignores our copyrights and copylefts, floods
-us with AI slop, and the only way to opt out is to leave.
+their wishes.  Microsoft disregards our copyrights and copylefts,
+floods us with AI slop, and the only opt-out is to leave.
 
-> [!TIP] 
+> [!TIP]
 > If you feel the same, you may find this
 > [script][give-up-github.sh] useful.
 
 ## Scope
 
-This is an individual decision, limited to repos that are "mine."
+This is an individual decision, limited to my repositories.
 
-I hope to move group projects, but prefer consensus to edict.  I am
-pushing collaborators, but not pushing with `--force`.
+Group projects will move by consensus, not edict.  I will push
+collaborators, but I will not push with `--force`.
 
-This does not apply to work.  Their time, their rules.
+Work projects are exempt; their time, their rules.
 
-To minimize user disruption, any *original sources* with at least one
-star remain archived here, with a final commit appended to the default
-`HEAD`.
+To minimize user disruption, *original sources* with at least one star
+remain archived here, with a final commit to `HEAD`.
 
 ## New homes
 
 ### Codeberg
 
-[**Codeberg**][codeberg]</dfn> is my home for collaborative open
-source.  I'm proud to be a [supporting member][codeberg-join].
+[**Codeberg**][codeberg] is my home for collaborative open source.  I'm
+a proud [supporting member][codeberg-join].
 
 > [!TIP]
 > Codeberg is free for public repositories with an open-source
@@ -37,18 +36,17 @@ source.  I'm proud to be a [supporting member][codeberg-join].
 
 I self-host [**Forgejo**][self-hosted-forgejo] for [solo
 projects][forgejo-ross], [issue reproducers][forgejo-repros],
-[forks][forgejo-forks], and [datasets][forgejo-data].  You are welcome
-to [explore][forgejo-explore].
+[forks][forgejo-forks], and
+[datasets][forgejo-data]. [Explore][forgejo-explore] my instance.
 
 > [!WARNING]
-> Crawlers that ignore robots.txt may receive a [colorless, odorless, 
+> Crawlers that ignore robots.txt may receive a [colorless, odorless,
 > and deadly poisonous][iocaine] response.
 
 ### Opengist
 
-My gists are self-hosted on
-[**Opengist**][self-hosted-opengist] unless they are
-proprietary.
+My gists are self-hosted on [**Opengist**][self-hosted-opengist],
+unless proprietary.
 
 [codeberg]: https://codeberg.org/rossabaker
 [codeberg-get-started]: https://docs.codeberg.org/getting-started
