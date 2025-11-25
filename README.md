@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2025 Ross A. Baker <ross@rossabaker.com>
+
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # Giving up GitHub
 
 I am [giving up GitHub][give-up-github] for personal use due to
