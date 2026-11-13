@@ -4,26 +4,40 @@ SPDX-FileCopyrightText: 2025 Ross A. Baker <ross@rossabaker.com>
 SPDX-License-Identifier: CC-BY-SA-4.0
 -->
 
-# Giving up GitHub
+<!-- This is Markdown because GitHub doesn't render README.org
+as a profile. -->
 
-I am [giving up GitHub][give-up-github] for personal use due to
-Microsoft's trampling of open source in pursuit of AI.  My open-source
-time is now focused on:
+# Ross A. Baker
 
-- [Codeberg][codeberg-ross] for new collaborations
-- [Self-hosted Forgejo][forgejo-ross] for solo projects
-
-I am gently pulling established collaborations in that direction, but
-I am not pushing colleagues with --force.
+I am [giving up GitHub][give-up-github] for personal use.  I am here
+for work, for inertia on established projects, and for coordination
+with adjacent ones.
 
 > [!TIP]
 > If you feel the same, you may find this
 > [script][give-up-github.sh] useful.
 
-Projects related to work are unaffected.
+I'd like to pull you and your projects to a better forge, but I'm not
+here to push anyone with `--force`.
 
-[codeberg]: https://codeberg.org
+## Respect
+
+- Respect the craft by communicating our own words and code.
+- Respect the effort by honoring the licenses.
+- Respect the people by refusing bigotry and fascism.
+- Respect the environment by computing intentionally.
+
+## Elsewhere
+
+- [**Codeberg**][codeberg-ross]: collaborative free software
+- [**My Forgejo**][forgejo-ross]: solo projects, mirrors, and archives
+- [**`rossabaker.com`**][rossabaker.com]: my IndieWeb site
+- [**`@ross@rossabaker.com`**][Mastodon]: on the Fediverse
+
+[codeberg]: https://codeberg.org/
 [codeberg-ross]: https://codeberg.org/rossabaker
 [forgejo-ross]: https://git.rossabaker.com/ross
 [give-up-github.sh]: https://codeberg.org/rossabaker/giveupgithub.sh
-[give-up-github]: https://giveupgithub.org
+[give-up-github]: https://giveupgithub.org/
+[rossabaker.com]: https://rossabaker.com/
+[Mastodon]: https://social.rossabaker.com/@ross
