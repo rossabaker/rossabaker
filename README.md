@@ -34,6 +34,10 @@ here to push anyone with `--force`.
 - [**`rossabaker.com`**][rossabaker.com]: my IndieWeb site
 - [**`@ross@rossabaker.com`**][Mastodon]: on the Fediverse
 
+---
+
+*Trans rights are human rights.*
+
 [codeberg]: https://codeberg.org/
 [codeberg-ross]: https://codeberg.org/rossabaker
 [forgejo-ross]: https://git.rossabaker.com/ross
